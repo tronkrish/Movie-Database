@@ -7,4 +7,5 @@ export default defineConfig({
     // This will fix the 404 issue
     historyApiFallback: true,
   },
+  base: "/Movie-Database"
 })
